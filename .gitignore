@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# file if list of the most simmilar 'offspring'
+# from each generation created by weasel_program.py
+wyniki_ewolucji_sekwencji
+
 # Distribution / packaging
 .Python
 build/
